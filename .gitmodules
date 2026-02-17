@@ -1,0 +1,3 @@
+[submodule "plugins/wez-tmux"]
+	path = plugins/wez-tmux
+	url = https://github.com/sei40kr/wez-tmux
